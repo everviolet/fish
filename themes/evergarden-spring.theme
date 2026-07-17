@@ -36,7 +36,7 @@ fish_color_selection --background=343e43
 fish_color_status f57f82
 fish_color_user b3e6db
 fish_color_valid_path --underline
-fish_pager_color_completion f7a182
+fish_pager_color_completion b3e6db
 fish_pager_color_description 6f8788
 fish_pager_color_prefix --bold --underline
 fish_pager_color_progress --bold adc9bc --background=343e43
