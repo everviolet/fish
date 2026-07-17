@@ -35,9 +35,11 @@ fish_color_hg_untracked {{yellow.hex}}
 fish_color_history_current --bold {{cherry.hex}}
 fish_color_host {{subtext0.hex}}
 fish_color_host_remote {{orange.hex}}
+fish_color_keyword {{red.hex}}
 fish_color_normal {{text.hex}}
 fish_color_operator {{subtext0.hex}}
-fish_color_param {{subtext1.hex}}
+fish_color_option {{subtext1.hex}}
+fish_color_param {{text.hex}}
 fish_color_quote {{lime.hex}}
 fish_color_redirection --bold {{snow.hex}}
 fish_color_search_match --bold {{subtext1.hex}} --background={{surface1.hex}}
@@ -45,6 +47,7 @@ fish_color_selection --background={{surface0.hex}}
 fish_color_status {{red.hex}}
 fish_color_user {{skye.hex}}
 fish_color_valid_path --underline
+fish_pager_color_completion {{orange.hex}}
 fish_pager_color_description {{overlay1.hex}}
 fish_pager_color_prefix --bold --underline
 fish_pager_color_progress --bold {{subtext1.hex}} --background={{surface0.hex}}
