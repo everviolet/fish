@@ -1,7 +1,7 @@
 # name: 'Evergarden Summer'
 # url: 'https://codeberg.org/evergarden/fish'
 
-[dark]
+[light]
 # preferred_background: f5efe6
 fish_color_autosuggestion acb5a4
 fish_color_cancel c58687

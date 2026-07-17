@@ -8,7 +8,11 @@ whiskers:
 # name: 'Evergarden {{flavor.name}}'
 # url: 'https://codeberg.org/evergarden/fish'
 
+{% if flavor.dark -%}
 [dark]
+{% else -%}
+[light]
+{% endif -%}
 # preferred_background: {{base.hex}}
 fish_color_autosuggestion {{overlay0.hex}}
 fish_color_cancel {{red.hex}}
