@@ -1,0 +1,47 @@
+---
+whiskers:
+  version: ^2.5.1
+  matrix:
+    - flavor
+  filename: 'themes/evergarden-{{flavor.identifier}}.theme'
+---
+# name: 'Evergarden {{flavor.name}}'
+# url: 'https://codeberg.org/evergarden/fish'
+
+[dark]
+# preferred_background: {{base.hex}}
+fish_color_autosuggestion {{overlay0.hex}}
+fish_color_cancel {{red.hex}}
+fish_color_command {{cherry.hex}}
+fish_color_comment {{overlay2.hex}}
+fish_color_cwd {{green.hex}}
+fish_color_cwd_root {{orange.hex}}
+fish_color_end {{overlay1.hex}}
+fish_color_error {{red.hex}}
+fish_color_escape {{yellow.hex}}
+fish_color_hg_added {{green.hex}}
+fish_color_hg_clean {{green.hex}}
+fish_color_hg_copied {{pink.hex}}
+fish_color_hg_deleted {{red.hex}}
+fish_color_hg_dirty {{orange.hex}}
+fish_color_hg_modified {{aqua.hex}}
+fish_color_hg_renamed {{pink.hex}}
+fish_color_hg_unmerged {{red.hex}}
+fish_color_hg_untracked {{yellow.hex}}
+fish_color_history_current --bold {{cherry.hex}}
+fish_color_host {{subtext0.hex}}
+fish_color_host_remote {{orange.hex}}
+fish_color_normal {{text.hex}}
+fish_color_operator {{subtext0.hex}}
+fish_color_param {{subtext1.hex}}
+fish_color_quote {{lime.hex}}
+fish_color_redirection --bold {{snow.hex}}
+fish_color_search_match --bold {{subtext1.hex}} --background={{surface1.hex}}
+fish_color_selection --background={{surface0.hex}}
+fish_color_status {{red.hex}}
+fish_color_user {{skye.hex}}
+fish_color_valid_path --underline
+fish_pager_color_description {{overlay1.hex}}
+fish_pager_color_prefix --bold --underline
+fish_pager_color_progress --bold {{subtext1.hex}} --background={{surface0.hex}}
+fish_pager_color_selected_background --background={{surface1.hex}}

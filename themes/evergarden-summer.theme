@@ -1,0 +1,40 @@
+# name: 'Evergarden Summer'
+# url: 'https://codeberg.org/evergarden/fish'
+
+[dark]
+# preferred_background: f5efe6
+fish_color_autosuggestion acb5a4
+fish_color_cancel c58687
+fish_color_command c29fb2
+fish_color_comment 707d76
+fish_color_cwd 91a77a
+fish_color_cwd_root c69883
+fish_color_end 829084
+fish_color_error c58687
+fish_color_escape c4aa80
+fish_color_hg_added 91a77a
+fish_color_hg_clean 91a77a
+fish_color_hg_copied c499b8
+fish_color_hg_deleted c58687
+fish_color_hg_dirty c69883
+fish_color_hg_modified 74a48b
+fish_color_hg_renamed c499b8
+fish_color_hg_unmerged c58687
+fish_color_hg_untracked c4aa80
+fish_color_history_current --bold c29fb2
+fish_color_host 576869
+fish_color_host_remote c69883
+fish_color_normal 2b3034
+fish_color_operator 576869
+fish_color_param 455355
+fish_color_quote abb182
+fish_color_redirection --bold 7799a3
+fish_color_search_match --bold 455355 --background=e6e1d3
+fish_color_selection --background=ede8dd
+fish_color_status c58687
+fish_color_user 719f96
+fish_color_valid_path --underline
+fish_pager_color_description 829084
+fish_pager_color_prefix --bold --underline
+fish_pager_color_progress --bold 455355 --background=ede8dd
+fish_pager_color_selected_background --background=e6e1d3
