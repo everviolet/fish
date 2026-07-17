@@ -47,7 +47,7 @@ fish_color_selection --background={{surface0.hex}}
 fish_color_status {{red.hex}}
 fish_color_user {{skye.hex}}
 fish_color_valid_path --underline
-fish_pager_color_completion {{orange.hex}}
+fish_pager_color_completion {{skye.hex}}
 fish_pager_color_description {{overlay1.hex}}
 fish_pager_color_prefix --bold --underline
 fish_pager_color_progress --bold {{subtext1.hex}} --background={{surface0.hex}}
