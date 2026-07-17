@@ -24,9 +24,11 @@ fish_color_hg_untracked f5d098
 fish_color_history_current --bold fae6ef
 fish_color_host 96b4aa
 fish_color_host_remote f7a182
+fish_color_keyword f57f82
 fish_color_normal f8f9e8
 fish_color_operator 96b4aa
-fish_color_param adc9bc
+fish_color_option adc9bc
+fish_color_param f8f9e8
 fish_color_quote dbe6af
 fish_color_redirection --bold afd9e6
 fish_color_search_match --bold adc9bc --background=374145
@@ -34,6 +36,7 @@ fish_color_selection --background=262f33
 fish_color_status f57f82
 fish_color_user b3e6db
 fish_color_valid_path --underline
+fish_pager_color_completion f7a182
 fish_pager_color_description 6f8788
 fish_pager_color_prefix --bold --underline
 fish_pager_color_progress --bold adc9bc --background=262f33
